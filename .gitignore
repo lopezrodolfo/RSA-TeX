@@ -3,3 +3,9 @@
 *.synctex.gz
 *.fdb_latexmk
 *.fls
+
+# VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
